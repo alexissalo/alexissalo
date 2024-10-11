@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil-linkedin/">
+  <a href="https://www.linkedin.com/in/alexis-salom%C3%B3n-971548239/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@example.com">
+  <a href="mailto:alexissalomon31@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -17,8 +17,8 @@
 
 ### 🌟 Sobre mí
 
-- 🔭 Actualmente trabajando en **[nombre del proyecto]**
-- 🌱 Aprendiendo **Node.js**, **React**, **Express**
+- 🔭 Actualmente trabajando en **Sistema de administracion**
+- 🌱 Aprendiendo **Nest.js**
 - 💬 Pregúntame sobre **Desarrollo Full Stack**, **APIs Rest**, **Bases de datos**
 - ⚡ Fun fact: _Me encanta aprender nuevas tecnologías y resolver problemas complejos._
 
