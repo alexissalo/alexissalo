@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MongoDB-%231572B6.svg?style=for-the-badge&logo=mongodb3&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongodb-%231572B6.svg?style=for-the-badge&logo=mongodb3&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
