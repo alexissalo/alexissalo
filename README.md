@@ -47,19 +47,6 @@
 
 ---
 
-### 📈 Actividad reciente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### 📝 Últimos Proyectos
-- 💻 [Nombre del Proyecto 1](https://github.com/tu-usuario-github/proyecto1): Breve descripción del proyecto 1.
-- 💻 [Nombre del Proyecto 2](https://github.com/tu-usuario-github/proyecto2): Breve descripción del proyecto 2.
-- 💻 [Nombre del Proyecto 3](https://github.com/tu-usuario-github/proyecto3): Breve descripción del proyecto 3.
-
----
-
 ### 🎯 Contacto
 <p>
   Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
